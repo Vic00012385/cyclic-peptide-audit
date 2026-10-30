@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cyclic-peptide-audit"
+version = "0.1.0"
+description = "Transparent audits of cyclic-peptide candidate screening tables"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+peptide-audit = "peptide_audit.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["peptide_audit*"]

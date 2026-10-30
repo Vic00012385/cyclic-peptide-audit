@@ -1,0 +1,49 @@
+candidate_id,target,topology,pre_closure,post_closure,ddg,sap,cms
+SYNTH-A-BA-01,Demo-A,Backbone amide,true,true,-42,20,360
+SYNTH-A-BA-02,Demo-A,Backbone amide,true,false,-40,22,350
+SYNTH-A-BA-03,Demo-A,Backbone amide,false,true,-41,21,355
+SYNTH-A-BA-04,Demo-A,Backbone amide,true,true,-32,38,280
+SYNTH-A-DS-01,Demo-A,Disulfide,true,true,-39,24,340
+SYNTH-A-DS-02,Demo-A,Disulfide,true,true,-35,25,320
+SYNTH-A-DS-03,Demo-A,Disulfide,true,true,-40,35,345
+SYNTH-A-DS-04,Demo-A,Disulfide,false,false,-44,18,370
+SYNTH-A-IP-01,Demo-A,Isopeptide,true,true,-43,19,380
+SYNTH-A-IP-02,Demo-A,Isopeptide,true,false,-46,22,390
+SYNTH-A-IP-03,Demo-A,Isopeptide,false,true,-34,20,360
+SYNTH-A-IP-04,Demo-A,Isopeptide,true,true,-38,28,300
+SYNTH-A-BC-01,Demo-A,Bicyclic,true,true,-48,16,410
+SYNTH-A-BC-02,Demo-A,Bicyclic,true,true,-41,32,330
+SYNTH-A-BC-03,Demo-A,Bicyclic,true,false,-33,39,275
+SYNTH-A-BC-04,Demo-A,Bicyclic,false,true,-45,23,365
+SYNTH-B-BA-01,Demo-B,Backbone amide,true,true,-40,26,350
+SYNTH-B-BA-02,Demo-B,Backbone amide,true,true,-36,34,301
+SYNTH-B-BA-03,Demo-B,Backbone amide,true,false,-37,27,335
+SYNTH-B-BA-04,Demo-B,Backbone amide,false,false,-30,40,260
+SYNTH-B-DS-01,Demo-B,Disulfide,true,true,-44,17,390
+SYNTH-B-DS-02,Demo-B,Disulfide,false,true,-42,21,360
+SYNTH-B-DS-03,Demo-B,Disulfide,false,true,-39,23,345
+SYNTH-B-DS-04,Demo-B,Disulfide,true,true,-34,36,295
+SYNTH-B-IP-01,Demo-B,Isopeptide,true,true,-39,24,335
+SYNTH-B-IP-02,Demo-B,Isopeptide,true,false,-41,22,350
+SYNTH-B-IP-03,Demo-B,Isopeptide,true,false,-43,20,365
+SYNTH-B-IP-04,Demo-B,Isopeptide,true,true,-37,35,315
+SYNTH-B-BC-01,Demo-B,Bicyclic,true,true,-47,18,405
+SYNTH-B-BC-02,Demo-B,Bicyclic,false,true,-45,20,385
+SYNTH-B-BC-03,Demo-B,Bicyclic,true,true,-36,34,302
+SYNTH-B-BC-04,Demo-B,Bicyclic,false,false,-38,32,310
+SYNTH-C-BA-01,Demo-C,Backbone amide,true,true,-38,28,325
+SYNTH-C-BA-02,Demo-C,Backbone amide,true,false,-39,27,340
+SYNTH-C-BA-03,Demo-C,Backbone amide,false,true,-40,26,350
+SYNTH-C-BA-04,Demo-C,Backbone amide,true,true,-35,35,300
+SYNTH-C-DS-01,Demo-C,Disulfide,true,true,-45,19,395
+SYNTH-C-DS-02,Demo-C,Disulfide,true,true,-42,22,370
+SYNTH-C-DS-03,Demo-C,Disulfide,false,false,-41,23,360
+SYNTH-C-DS-04,Demo-C,Disulfide,true,false,-33,38,290
+SYNTH-C-IP-01,Demo-C,Isopeptide,true,true,-41,25,355
+SYNTH-C-IP-02,Demo-C,Isopeptide,false,true,-43,21,380
+SYNTH-C-IP-03,Demo-C,Isopeptide,true,true,-36,33,305
+SYNTH-C-IP-04,Demo-C,Isopeptide,true,false,-39,31,340
+SYNTH-C-BC-01,Demo-C,Bicyclic,true,true,-49,15,430
+SYNTH-C-BC-02,Demo-C,Bicyclic,true,false,-46,18,410
+SYNTH-C-BC-03,Demo-C,Bicyclic,false,true,-44,22,390
+SYNTH-C-BC-04,Demo-C,Bicyclic,false,false,-31,42,270
